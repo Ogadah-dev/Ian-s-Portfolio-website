@@ -1,0 +1,17 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* Example background color */
+}
+
+/* Custom styles for specific elements */
+.navbar {
+    background-color: #ffffff; /* Navbar background color */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Example shadow */
+}
+
+.container {
+    padding: 20px;
+}
+
+
