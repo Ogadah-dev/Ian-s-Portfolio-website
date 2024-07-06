@@ -1,13 +1,13 @@
 {
-  "name": "ian's-portfolio-website",
+  "name": "ian-portfolio-website",
   "version": "1.0.0",
-  "description": "",
+  "description": "A personal portfolio website showcasing my skills, projects, and contact information.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ian Ogada",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
